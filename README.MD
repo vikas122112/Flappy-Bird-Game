@@ -129,8 +129,11 @@ Enjoy flying high and breaking your own records! 🐦💨
 
 Vikas
 🎓 B.Tech in Computer Science and Engineering
+
 💡 Python Developer | Game Enthusiast | AI Learner
+
 🛠️ Languages Known: Python, HTML, CSS
+
 📘 Developed this project using Visual Studio Code
 
 ---
