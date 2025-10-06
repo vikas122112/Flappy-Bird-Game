@@ -51,8 +51,7 @@ This project highlights the **power and flexibility of Python’s Pygame library
 
 ## 📸 Screenshot 
 ---
-### 🐥 Gameplay Interface  
-![image_alt]()
+![image_alt](https://github.com/vikas122112/Flappy-Bird-Game/blob/main/Screenshot.png?raw=true)
 
 
 
